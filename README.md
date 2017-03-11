@@ -1,2 +1,1 @@
-# jream.github.io
-jream lu
+# jream.lu
